@@ -1,2 +1,2 @@
 # iOS-ADS-Trackers
-Blocks ads &amp; trackers in apps/games
+Block ads & trackers in apps/games
